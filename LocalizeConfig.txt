@@ -1,0 +1,3 @@
+Env=dev
+IsLocalize=true
+ResUrls=http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf
